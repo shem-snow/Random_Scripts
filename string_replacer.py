@@ -1,10 +1,10 @@
 '''
-Use this script specify a filepath, an old string, and a new string.
+To use this script, edit this code to specify a filepath, old string, and a new string.
 When the script is run, the specified file will be opened and all instances of "old_string"
 will be replaced with "new_string".
 '''
 
-file_path = "file.ext"  # Replace with the path to your text file
+file_path = "/Users/shem/Documents/cs4400/Malloc/mm.c"  # Replace with the path to your text file.
 old_string = "pirntf"
 new_string = "printf"
 
